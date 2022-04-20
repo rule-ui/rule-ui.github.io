@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://xinfox-lion.icu/2022/04/20/%E5%BA%8F/</loc>
+    <loc>http://xinfox-lion.icu/about/index.html</loc>
     
     <lastmod>2022-04-20</lastmod>
     
@@ -48,15 +48,6 @@
   
   <url>
     <loc>http://xinfox-lion.icu/categories/index.html</loc>
-    
-    <lastmod>2022-04-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://xinfox-lion.icu/about/index.html</loc>
     
     <lastmod>2022-04-18</lastmod>
     
