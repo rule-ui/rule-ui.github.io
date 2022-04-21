@@ -4,7 +4,25 @@
   <url>
     <loc>http://xinfox-lion.icu/about/index.html</loc>
     
-    <lastmod>2022-04-20</lastmod>
+    <lastmod>2022-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://xinfox-lion.icu/2022/04/20/%E5%BA%8F/</loc>
+    
+    <lastmod>2022-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://xinfox-lion.icu/guestbook/index.html</loc>
+    
+    <lastmod>2022-04-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +31,7 @@
   <url>
     <loc>http://xinfox-lion.icu/links/index.html</loc>
     
-    <lastmod>2022-04-20</lastmod>
+    <lastmod>2022-04-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -65,6 +83,13 @@
 
   
 
+  
+  <url>
+    <loc>http://xinfox-lion.icu/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2022-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://xinfox-lion.icu/categories/%E7%AE%97%E6%B3%95/</loc>
